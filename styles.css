@@ -158,11 +158,13 @@ body {
 
 /* App logo on link buttons */
 .app-logo {
-  width: 32px;
-  height: 32px;
+  width: 40px;
+  height: 40px;
   object-fit: contain;
   flex-shrink: 0;
-  border-radius: 6px;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 4px;
 }
 
 .link-text {
