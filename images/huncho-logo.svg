@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1540 650" role="img" aria-labelledby="title desc">
+  <title id="title">HUNCHO Combined Logo Lockup — White</title>
+  <desc id="desc">Approved Huncho monogram centred above the approved HUNCHO wordmark in white.</desc>
+
+  <g id="huncho-combined-lockup" fill="#FFFFFF" fill-rule="evenodd">
+    <g id="huncho-monogram" transform="translate(590 20) scale(0.36)">
+      <path d="M220 80H430V360H570V240H780V920H570V640H430V760H220V80Z M570 360H640V500H570V360Z M360 500H430V640H360V500Z"/>
+    </g>
+
+    <g id="huncho-wordmark" transform="translate(0 445)">
+      <path d="M0 0 L76 0 L76 72 L168 72 L169 0 L244 0 L244 179 L169 179 L168 106 L156 105 L76 106 L76 179 L0 179 Z M267 0 L342 0 L342 146 L429 146 L429 0 L505 0 L504 163 L487 179 L283 178 L267 162 Z M528 0 L604 0 L698 106 L699 0 L771 0 L771 179 L695 179 L601 73 L600 179 L528 179 Z M811 0 L1010 1 L1027 18 L1026 67 L952 67 L951 33 L867 33 L867 146 L951 146 L951 113 L1027 113 L1026 163 L1008 179 L809 178 L793 162 L793 17 Z M1049 0 L1124 0 L1125 72 L1214 72 L1214 0 L1289 0 L1289 179 L1214 179 L1214 106 L1124 106 L1124 179 L1049 179 Z M1328 0 L1524 1 L1540 17 L1540 162 L1522 179 L1328 179 L1310 161 L1310 18 Z M1385 33 L1384 146 L1467 146 L1467 33 Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+# =============================================================================
+# Huncho — Link Page Configuration
+# =============================================================================
+
+theme: huncho
+lang: "en"
+color_scheme: dark
+
+plugins: []
+
+google_analytics_id:
+
+# -----------------------------------------------------------------------------
+# Profile header
+# -----------------------------------------------------------------------------
+title: "Huncho"
+avatar: "./images/huncho-logo.svg"
+name: "Huncho"
+tagline: >-
+    Order now on Careem, Deliveroo & Talabat.
+
+# -----------------------------------------------------------------------------
+# Links
+# -----------------------------------------------------------------------------
+links:
+  - link:
+      icon: "fa-solid fa-motorcycle"
+      text: "Order on Careem"
+      url: "https://link.careem.com/ifuvoisWSRSaF"
+      alt: "Order Huncho on Careem"
+      title: "Order Huncho on Careem"
+      target: "_blank"
+
+  - link:
+      icon: "fa-solid fa-bag-shopping"
+      text: "Order on Talabat"
+      url: "https://www.talabat.com/uae/huncho"
+      alt: "Order Huncho on Talabat"
+      title: "Order Huncho on Talabat"
+      target: "_blank"
+
+  - link:
+      icon: "fa-solid fa-utensils"
+      text: "Order on Deliveroo"
+      url: "https://www.deliveroo.ae/"
+      alt: "Order Huncho on Deliveroo"
+      title: "Order Huncho on Deliveroo"
+      target: "_blank"
+
+# -----------------------------------------------------------------------------
+# Social media buttons
+# -----------------------------------------------------------------------------
+socials:
+  - social:
+      icon: "fa-brands fa-instagram"
+      url: "https://www.instagram.com/huncho_arabia"
+      title: "Huncho on Instagram"
+      alt: "Huncho on Instagram"
+      target: "_blank"
+
+# -----------------------------------------------------------------------------
+# Footer
+# -----------------------------------------------------------------------------
+footer: ""
+copyright: "© 2026 Huncho. All rights reserved."
