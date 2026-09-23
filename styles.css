@@ -1,6 +1,6 @@
 :root {
-  --bg-1: #0a4d8c;
-  --bg-2: #073b6f;
+  --bg-1: #1239D8;
+  --bg-2: #0d2ba8;
   --shape-1: rgba(255, 255, 255, 0.08);
   --shape-2: rgba(255, 255, 255, 0.06);
   --shape-3: rgba(255, 255, 255, 0.04);
@@ -24,8 +24,8 @@
 /* Huncho is a brand — keep the blue in dark mode too */
 @media (prefers-color-scheme: dark) {
   :root:not(.scheme-light) {
-    --bg-1: #073b6f;
-    --bg-2: #052d56;
+    --bg-1: #0d2ba8;
+    --bg-2: #0a2080;
     --shape-1: rgba(255, 255, 255, 0.06);
     --shape-2: rgba(255, 255, 255, 0.04);
     --shape-3: rgba(255, 255, 255, 0.03);
@@ -38,8 +38,8 @@
   }
 }
 :root.scheme-dark {
-  --bg-1: #073b6f;
-  --bg-2: #052d56;
+  --bg-1: #0d2ba8;
+  --bg-2: #0a2080;
   --shape-1: rgba(255, 255, 255, 0.06);
   --shape-2: rgba(255, 255, 255, 0.04);
   --shape-3: rgba(255, 255, 255, 0.03);
